@@ -1,0 +1,2 @@
+tabs: ["src/App.tsx", "src/main.tsx"]
+terminals: ["yarn install && yarn dev"]
